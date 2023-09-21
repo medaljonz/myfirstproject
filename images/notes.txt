@@ -1,0 +1,2 @@
+notes
+[] write your ptogram in c++
